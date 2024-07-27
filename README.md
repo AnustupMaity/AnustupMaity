@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
 <!--img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"-->
-</div><h1 align="center">I am Anustup Maity</h1>
+</div><h1 align="center">Hey There , I am Anustup Maity</h1>
 
 <!--
 **AnustupMaity/AnustupMaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
