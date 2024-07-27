@@ -4,7 +4,7 @@
 </div><h1 align="center">Hey There , I am Anustup Maity</h1>
 
 <!--<img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nebulatris&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnustupMaity&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
 
 - 🔭 I’m currently a Student 
 
